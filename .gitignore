@@ -1,0 +1,18 @@
+.DS_Store
+
+node_modules/
+.vscode/
+
+# Compiled binaries and object files
+*.o
+*.out
+*.exe
+*.class
+*.mod
+a.out
+
+# Specific compiled executables (no extension)
+nonsense-poem-generator
+nonsense-poem-generator-c
+nonsense-poem-generator-cpp
+NonsensePoemGenerator

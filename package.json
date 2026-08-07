@@ -1,0 +1,19 @@
+{
+  "name": "nonsense-poem-generator",
+  "version": "1.0.0",
+  "description": "Generate random nonsense poems",
+  "main": "nonsense-poem-generator.ts",
+  "scripts": {
+    "start": "ts-node nonsense-poem-generator.ts",
+    "poem": "ts-node nonsense-poem-generator.ts",
+    "poems": "ts-node nonsense-poem-generator.ts 5"
+  },
+  "keywords": ["poetry", "nonsense", "random", "generator"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
