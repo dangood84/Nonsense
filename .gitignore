@@ -12,7 +12,5 @@ node_modules/
 a.out
 
 # Specific compiled executables (no extension)
-nonsense-poem-generator
-nonsense-poem-generator-c
-nonsense-poem-generator-cpp
+nonsense-poem-generator*
 NonsensePoemGenerator
